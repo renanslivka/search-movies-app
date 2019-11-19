@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/search-movies-app/static/css/main.60fb755a.chunk.css",
+    "main.js": "/search-movies-app/static/js/main.eaa671b1.chunk.js",
+    "main.js.map": "/search-movies-app/static/js/main.eaa671b1.chunk.js.map",
+    "runtime-main.js": "/search-movies-app/static/js/runtime-main.ddb5c7a4.js",
+    "runtime-main.js.map": "/search-movies-app/static/js/runtime-main.ddb5c7a4.js.map",
+    "static/js/2.edc806f2.chunk.js": "/search-movies-app/static/js/2.edc806f2.chunk.js",
+    "static/js/2.edc806f2.chunk.js.map": "/search-movies-app/static/js/2.edc806f2.chunk.js.map",
+    "index.html": "/search-movies-app/index.html",
+    "precache-manifest.830041b656d8d400517271ec7b5bff98.js": "/search-movies-app/precache-manifest.830041b656d8d400517271ec7b5bff98.js",
+    "service-worker.js": "/search-movies-app/service-worker.js",
+    "static/css/main.60fb755a.chunk.css.map": "/search-movies-app/static/css/main.60fb755a.chunk.css.map",
+    "static/media/logo.svg": "/search-movies-app/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddb5c7a4.js",
+    "static/js/2.edc806f2.chunk.js",
+    "static/css/main.60fb755a.chunk.css",
+    "static/js/main.eaa671b1.chunk.js"
+  ]
+}

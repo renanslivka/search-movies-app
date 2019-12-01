@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4670789289a484664a88400d8a27d1b1",
+    "revision": "f734435f5dfa9adab52a3932b8a57edb",
     "url": "/search-movies-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/search-movies-app/static/css/2.64a99b10.chunk.css"
   },
   {
-    "revision": "12542c137cdf7dd80e53",
+    "revision": "5704dd8be9f42a6cdd28",
     "url": "/search-movies-app/static/css/main.fb67e818.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/search-movies-app/static/js/2.e1a95d10.chunk.js"
   },
   {
-    "revision": "12542c137cdf7dd80e53",
-    "url": "/search-movies-app/static/js/main.5ca2034f.chunk.js"
+    "revision": "5704dd8be9f42a6cdd28",
+    "url": "/search-movies-app/static/js/main.17f95b60.chunk.js"
   },
   {
     "revision": "c4d7c6fd28a30f32b3f7",

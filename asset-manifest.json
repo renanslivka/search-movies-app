@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/search-movies-app/static/css/main.810e6a4b.chunk.css",
-    "main.js": "/search-movies-app/static/js/main.0a39efbf.chunk.js",
-    "main.js.map": "/search-movies-app/static/js/main.0a39efbf.chunk.js.map",
+    "main.css": "/search-movies-app/static/css/main.ed5286aa.chunk.css",
+    "main.js": "/search-movies-app/static/js/main.639152bf.chunk.js",
+    "main.js.map": "/search-movies-app/static/js/main.639152bf.chunk.js.map",
     "runtime-main.js": "/search-movies-app/static/js/runtime-main.54030db7.js",
     "runtime-main.js.map": "/search-movies-app/static/js/runtime-main.54030db7.js.map",
     "static/css/2.64a99b10.chunk.css": "/search-movies-app/static/css/2.64a99b10.chunk.css",
-    "static/js/2.4dda466c.chunk.js": "/search-movies-app/static/js/2.4dda466c.chunk.js",
-    "static/js/2.4dda466c.chunk.js.map": "/search-movies-app/static/js/2.4dda466c.chunk.js.map",
+    "static/js/2.9bd493d8.chunk.js": "/search-movies-app/static/js/2.9bd493d8.chunk.js",
+    "static/js/2.9bd493d8.chunk.js.map": "/search-movies-app/static/js/2.9bd493d8.chunk.js.map",
     "index.html": "/search-movies-app/index.html",
-    "precache-manifest.0d20a4ec7389c7899efcceffe82c0a43.js": "/search-movies-app/precache-manifest.0d20a4ec7389c7899efcceffe82c0a43.js",
+    "precache-manifest.c0a6edf6fb360553357dcd62e9b2e144.js": "/search-movies-app/precache-manifest.c0a6edf6fb360553357dcd62e9b2e144.js",
     "service-worker.js": "/search-movies-app/service-worker.js",
     "static/css/2.64a99b10.chunk.css.map": "/search-movies-app/static/css/2.64a99b10.chunk.css.map",
-    "static/css/main.810e6a4b.chunk.css.map": "/search-movies-app/static/css/main.810e6a4b.chunk.css.map",
-    "static/js/2.4dda466c.chunk.js.LICENSE": "/search-movies-app/static/js/2.4dda466c.chunk.js.LICENSE",
-    "static/media/Space.png": "/search-movies-app/static/media/Space.8ce42c36.png",
+    "static/css/main.ed5286aa.chunk.css.map": "/search-movies-app/static/css/main.ed5286aa.chunk.css.map",
+    "static/js/2.9bd493d8.chunk.js.LICENSE": "/search-movies-app/static/js/2.9bd493d8.chunk.js.LICENSE",
     "static/media/logo.svg": "/search-movies-app/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.54030db7.js",
     "static/css/2.64a99b10.chunk.css",
-    "static/js/2.4dda466c.chunk.js",
-    "static/css/main.810e6a4b.chunk.css",
-    "static/js/main.0a39efbf.chunk.js"
+    "static/js/2.9bd493d8.chunk.js",
+    "static/css/main.ed5286aa.chunk.css",
+    "static/js/main.639152bf.chunk.js"
   ]
 }
